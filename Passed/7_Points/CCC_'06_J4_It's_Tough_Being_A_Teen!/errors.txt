@@ -1,0 +1,4 @@
+main.cpp: In function 'void print(std::vector<instructions>)':
+main.cpp:82:10: warning: unused variable 'loop' [-Wunused-variable]
+   82 |     bool loop = true; // Variable for the loop to add numbers for output.
+      |          ^~~~
