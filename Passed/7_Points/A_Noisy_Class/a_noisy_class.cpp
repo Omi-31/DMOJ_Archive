@@ -71,11 +71,7 @@ int main () {
     size_t numConnections; // Will be used to decide how many loops to go through.
     size_t loops = 0; // Counts each loop in the Do-While loop.
 
-    // NOTE TO MYSELF: In my solution, I don't use this number. I'm really
-    //                 just storing the input since the website wants it?
-    // NEW NOTE!!!!!!: I might've found a use for this, just noting this
-    //                 moment for posterity.
-    // LAST NOTE!!!!!: I never ended up using this value, I figured out a 
+    // NOTE TO MYSELF: I never ended up using this value, I figured out a 
     //                 solution that ignored this value completely, but
     //                 it is an ugly solution in my opinion - Om
     std::cin >> numStudents; // Getting the number of students.
